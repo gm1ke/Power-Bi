@@ -2,20 +2,8 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/1bc4ea1e-8dbf-47ca-9087-40ef864531b3/7539bddd99bc98fde1b0?experience=power-bin
 
-## Problem Statement
-
-The "Super Store" is experiencing uneven sales and profitability across different regions, product categories, and customer segments. Despite achieving a significant total sales volume, the profitability and return rates suggest underlying inefficiencies and potential areas of improvement. The key issues to be addressed include:
-
-1. Product Performance Variability: There is a noticeable disparity in sales across different product sub-categories. For instance, while Phones and Chairs lead in sales, other categories like Appliances and Bookcases show significantly lower sales, which could indicate either lower demand or insufficient marketing efforts.
-
-2. Regional Sales Discrepancies: Sales performance varies widely across different states and regions, indicating potential untapped markets or regions where sales strategies may need to be reevaluated.
-
-3. Customer Segment Insights: The sales contribution from different customer segments suggests that the store may need to realign its marketing and product offerings to better cater to the most profitable segments or expand its reach to underperforming ones.
-
-4. Profitability Concerns: Although the total sales are high, the profit margins appear to be under pressure, which could be due to high operational costs, inefficient pricing strategies, or lower-margin product categories.
-
-5. Product Return Rate: With 296 products returned, understanding the reasons behind these returns is crucial to reducing return rates and improving customer satisfaction.
-
+## Objective of the Project
+The objective is to analyze this data and provide actionable, data-driven recommendations to guide Super Store.
 
 ### Steps followed 
 
