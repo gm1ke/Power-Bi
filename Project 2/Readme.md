@@ -7,7 +7,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://github.com/user-attachments/assets/6edf9282-5d84-4671-aefd-bf838025168d")
+![dashboard_snap](https://github.com/user-attachments/assets/6edf9282-5d84-4671-aefd-bf838025168d)
 
 # Overall Sales Performance:
 
